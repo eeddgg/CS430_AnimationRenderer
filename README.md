@@ -14,3 +14,6 @@ Valid elements include:
 
 ## Usage
 raytrace pixel_width pixel_height input.scene output.ppm
+
+## Build Instructions
+Just use the Makefile
